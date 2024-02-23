@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg class="cart-img" id="cart" data-name="cart" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28.35 28.35">
+  <defs><style>.cart-1 {fill: none;stroke: #f8f8f8;stroke-miterlimit: 10;stroke-width: 1.42px;}.cart-2 {fill: #f8f8f8;}</style></defs>
+  <line id="bottom-line" class="cart-1" x1="11.99" y1="23.62" x2="18.53" y2="23.62"/>
+  <circle id="left-wheel" class="cart-1" cx="9.87" cy="23.62" r="2.78"/>
+  <circle id="right-wheel" class="cart-1" cx="21.32" cy="23.62" r="2.78"/>
+  <path id="handle" class="cart-1" d="m9.33,21.42c-1.27-5.24-2.54-10.47-3.81-15.71-.04-.22-.11-.39-.2-.52-.64-.93-2.59-.94-4.88-.16"/>
+  <path id="cart-outline" class="cart-1" d="m7.85,17.38h12.86c.22.02.42,0,.61-.05,2.89-.77,2.83-9.11,2.82-10.18H5.38"/>
+  <polyline id="cart-middle" class="cart-1" points="12.37 17.06 11.63 7.24 17.85 7.24 17.07 17.06"/>
+  <line id="cart-middle-2" class="cart-1" x1="6.58" y1="12.27" x2="23.63" y2="12.27"/>
+  <circle id="wheel-right-inside" class="cart-2" cx="21.32" cy="23.62" r=".71"/>
+  <circle id="wheel-left-inside" class="cart-2" cx="9.87" cy="23.62" r=".71"/>
+</svg>
